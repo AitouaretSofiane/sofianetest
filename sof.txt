@@ -1,0 +1,66 @@
+C:\wamp64\www\suitecrm\custom\modules\Contacts\language
+C:\wamp64\www\suitecrm\cache\modules\Contacts\language
+
+
+
+
+La GRC peut être effectuée en :
+découvrant les habitudes d'achat, les opinions et les préférences de vos clients
+établissant le profil des personnes et des groupes afin de commercialiser plus efficacement et d'augmenter les ventes
+
+Un avantage majeur peut résider dans le développement de meilleures relations avec vos clients existants, ce qui peut entraîner 
+l'anticipation des besoins selon les tendances historiques
+l'identification plus efficace des besoins en comprenant les exigences spécifiques des clients
+l'identification de vos clients rentables et de ceux qui ne le sont pas
+ Analyse du comportement du client
+Automatisation de campagnes personnalisées
+Campagnes à déclenchement automatique • 
+Développer des parcours clients interactifs et personnalisés en fonction de leurs comportements • 
+Automatiser les programmes de bienvenue • 
+Automatiser les programmes de fidélisation • 
+Automatiser les programmes de cross-sell et upsell •
+ Automatiser les campagnes email et mobile
+
+Segmenter = constituer des ensembles et des sous-ensembles homogènes.
+On regroupe des clients ou des prospects ayant des caractéristiques communes.
+– Adaptez vos offres en fonction des profils qui se dessinent.
+– Soyez présents sur les canaux de distribution sur lesquels ils vous attendent.
+
+.
+
+Créez des espaces privilégiés d’échanges avec vos clients  (communautés, forums, blogs)
+
+Quels sont les indicateurs que vous devez suivre ?
+ 
+– Satisfaction (enquête, client mystère…)
+– Attrition (départs clients)
+– Chiffre d’affaires par clients, rentabilité
+– Fréquence d’achat, derniers achats (activité client)
+– Taux de transformation
+– Taux d’ouverture (emails, sms…)
+– …
+ 
+Cette évaluation doit être constante, construisez-vous des tableaux de bord solides, ils seront enrichis avec le temps et les « tests » marketing que vous réaliserez sur votre base.
+ Ouvrir le dialogue (appel, email, blog, chat…)
+Ecouter / Recueillir les éléments clés sur votre client (CRM)
+Segmenter votre base clients en fonction de critères précis (RFM = Récence / Fréquence / Montant), de critères communs à vos clients, de leurs centres d’intérêts
+Evaluer la pertinence de vos actions (nombre de nouveaux clients, nombre de clients fidèles, CA généré par client et évolution de celui-ci dans le temps, nouveaux clients issus des recommandations…)
+ 
+Mesurer la satisfaction de ses clients passe par :
+ 
+leur écoute ;
+la prise en comptes des attentes et besoins des clients ;
+une excellente réactivité.
+ 
+ 
+ 
+ 
+Traitement des réclamations: 
+A l’instar de la mesure de la satisfaction client, le traitement des réclamations s’inscrit dans la logique d’amélioration continue.
+Il s’agit pour l’entreprise, quelle que soit sa taille, de :
+Traiter la réclamation afin de restaurer la confiance du client et sauvegarder de bonnes relations ;
+Comprendre les causes, tirer les leçons de la réclamation afin de s’améliorer et de fidéliser le client.
+Le traitement des réclamations doit permettre :
+Une (ré)action rapide par la mise en place des mesures d’urgence pour répondre au mécontentement du réclamant ;
+Un suivi et une analyse des réclamations par produits, par origine géographique, par type de clients ;
+Une veille concurrentielle grâce aux retours d’informations des clients concernant le niveau de prestation proposé par la concurrence.
